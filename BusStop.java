@@ -1,19 +1,4 @@
-/*
- * Write your program inside the main method to find the order
- * which the bus the student needs to take will arrive
- * according to the assignemnt description. 
- *
- * To compile:
- *        javac BusStop.java
- * 
- * DO NOT change the class name
- * DO NOT use System.exit()
- * DO NOT change add import statements
- * DO NOT add project statement
- * 
- */
-
-        /* INSTRUCTIONS TO SOLVE THE PROBLEM:
+/* INSTRUCTIONS TO SOLVE THE PROBLEM:
 
         - Read the n-1 characters that are given by the user.
         (this can be done with a for loop and then save those values in an array)
